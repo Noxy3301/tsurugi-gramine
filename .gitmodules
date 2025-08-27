@@ -1,0 +1,3 @@
+[submodule "third_party/tsurugidb"]
+	path = third_party/tsurugidb
+	url = https://github.com/project-tsurugi/tsurugidb.git
